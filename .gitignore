@@ -1,0 +1,17 @@
+# EclipseやIntelliJ IDEAなどのIDE設定ファイル
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+
+# VS Codeの設定ファイル（必要に応じて）
+.vscode/
+
+# Javaのコンパイル済みファイル（クラスファイル）
+*.class
+bin/
+out/
+
+# macOSのシステムが勝手に作るゴミファイル
+.DS_Store
