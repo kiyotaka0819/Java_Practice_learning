@@ -1,5 +1,3 @@
-package capter01;
-
 /**
  * Javaの変数についての解説用クラス
  */

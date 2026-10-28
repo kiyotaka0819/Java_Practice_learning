@@ -1,5 +1,3 @@
-package capter01;
-
 // コンソールからの入力を受け取るために Scanner クラスをインポートする
 import java.util.Scanner;
 
